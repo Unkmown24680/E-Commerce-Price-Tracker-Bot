@@ -10,7 +10,7 @@ import threading
 import os
 
 
-BOT_TOKEN = os.environ.get("6366786954:AAF_tyMXnZSemJu54aK3kPuaiP-6aO8LSA4")
+BOT_TOKEN = os.environ.get("6366786954:AAGNglQLwqyr21lsVYm-P0ioySyOnD2SRZU")
 
 
 def track_item(link):
